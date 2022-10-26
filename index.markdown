@@ -1,8 +1,7 @@
 ---
 layout: home
+title: Joseph Gonzales
 ---
-
-# Joseph Gonzales
 
 address, e-mail, phone number  
 website
