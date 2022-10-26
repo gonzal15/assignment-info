@@ -45,7 +45,7 @@ You may have noticed that the size of this folder is pretty small, and Andrew Et
 
 In order to host your website through GitHub Pages, you will need to create a repository for it. The name of your repository should be in the following format:
 ```
-githubUsername.github.io
+yourGitHubUsername.github.io
 ```
 
 GitHub provides a distributed version control system (DVCS), which helps keep track of what changes were made and by who. This accommodates the collaboration aspect mentioned earlier that Andrew Etter gave, but he also notes that a DVCS is preferred by software developers. As well, using a DVCS to store things such as a ReadMe ensures that the file can stay updated along with the code. By keeping things up-to-date, mistakes and errors can be avoided from both the writer side and the developer side.
@@ -58,3 +58,26 @@ index.md
 ```
 
 In this file, below the content at the top (called the "front matter") separated with its own dashes, you can copy and paste the contents of your Markdown-formatted resume into this space. Save and close the file.
+
+#### 5) Upload your files to your repository
+
+At the moment, the repository you created in step 3 is currently empty. Go to your repository's page. There should be a blue-shaded box for quick setup. From there, click on the option that says "upload an existing file". You will then be taken to a page where you can upload your files. From here, you can go ahead and upload all of the files from the folder you created in step 2. Be sure to commit your changes with the green button near the bottom!
+
+#### 6) Celebrate
+
+At this point, once you've given a few minutes after uploading your files, you should be able to view your resume at
+```
+yourGitHubUsername.github.io
+```
+
+Congratulations! You are now ready to share this link with prospective employers!
+
+## More Resources
+
+- A great Markdown tutorial can be [found here](https://www.markdowntutorial.com/).
+- An overview of the basic syntax of Markdown can be [found here](https://www.markdownguide.org/basic-syntax/)
+- *Modern Technical Writing*, by Andrew Etter, can be purchased from [Amazon](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+
+## Authors and Acknowledgements
+
+## FAQs
