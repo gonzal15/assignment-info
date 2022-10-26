@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# Joseph Gonzales
+
 address, e-mail, phone number  
 website
 
