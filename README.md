@@ -81,3 +81,19 @@ Congratulations! You are now ready to share this link with prospective employers
 ## Authors and Acknowledgements
 
 ## FAQs
+
+> Why host text online as a static website rather than saving and sending the text as files?
+
+Files such as .docx or .pdf are saved and distributed once they are ready. A problem occurs when those files need to be updated. If someone has an older version of something you wrote and you need to get them the new and improved version, this can require creating a new file, notifying the person, etc. Unlike text files, hosting the text online provides the "once place of truth", and using a DVCS allows for the text to be updated in real time.
+
+> I've hosted my resume, but my name at the top is showing up twice. How do I fix this?
+
+Go to your repository, and edit the file named:
+```
+index.md
+```
+Recall from step 4 of the instructions that there is the section of the file that was referred to as the "front matter", identified with three dashes above and below. If you created a heading at the top of your resume with your name, delete this. In the front matter, add a new line that says within the dashes:
+```
+title: [your name]
+```
+Save this change. After a few minutes, your website should update and have your name only show up once.
