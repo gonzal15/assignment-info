@@ -84,7 +84,7 @@ Congratulations! You are now ready to share this link with prospective employers
 
 > Why host text online as a static website rather than saving and sending the text as files?
 
-Files such as .docx or .pdf are saved and distributed once they are ready. A problem occurs when those files need to be updated. If someone has an older version of something you wrote and you need to get them the new and improved version, this can require creating a new file, notifying the person, etc. Unlike text files, hosting the text online provides the "once place of truth", and using a DVCS allows for the text to be updated in real time.
+Files such as .docx or .pdf are saved and distributed once they are ready. A problem occurs when those files need to be updated. If someone has an older version of something you wrote and you need to get them the new and improved version, this can require creating a new file, notifying the person, etc. Unlike text files, hosting the text online provides the "once place of truth", and updates can be made in real time.
 
 > I've hosted my resume, but my name at the top is showing up twice. How do I fix this?
 
