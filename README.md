@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The purpose of this ReadMe is to, above all else, help you host your resume online as a static website. By the end of this tutorial, you should be able to:
+The purpose of this ReadMe is to help you host your resume online as a static website. By the end of this tutorial, you should be able to:
 - use Markdown with your Markdown editor to create your resume
 - use Jekyll to generate a static website
 - use GitHub and GitHub Pages to maintain and host your resume online
